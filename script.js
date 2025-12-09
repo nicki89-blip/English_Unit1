@@ -1,7 +1,7 @@
 // 🔗 Seznam naborov (lokalne datoteke v istem folderju)
 const DATASETS = [
   { id: "all",   name: "Vse besede", url: "english_words.json" },
-  { id: "unit1", name: "Unit 1",     url: "unit1.json" }
+  { id: "unit1", name: "Unit 1",     url: "unit1.json" },
   { id: "unit2", name: "Unit 2",     url: "unit2.json" }
 ];
 const SELECT_KEY = "anki_dataset_id";
